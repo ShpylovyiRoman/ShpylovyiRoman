@@ -1,6 +1,6 @@
 <code>🎓 Student: KPI / IP-83</code>
 <code>⚪ Community: future-stardust</code>
-<code>👷 Speciality: Software engineer / Backend</code><br>
+<code>👷 Speciality: Software engineer </code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
